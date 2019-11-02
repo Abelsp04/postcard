@@ -11,7 +11,7 @@ Create a `index.html` file with the [basic HTML structure](http://content.breath
 $ pip3 install flask      (only the first time)
 $ python3 server.py
 ```
-
+python3 -m http.server 3000
 - You can create as many HTML files you want
 - You can also create CSS files and you can import them onto your website using a `<link>` tag placed between the `<head></head>` tags, like this:
 
