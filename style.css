@@ -1,7 +1,7 @@
 body{background: black;}
 .postcard{background: white;
-    width: 600px;
-    height: 400px;
+    width: 530px;
+    height: 300px;
     margin: auto;
     position: absolute;
     top: 50%;
@@ -39,7 +39,11 @@ input{
     margin: 20px;
     border-bottom: 1px solid;
 }
-Collapse
+.footer{
+    position:absolute;
+    bottom: 10%;
+    left:45%;
+}
 
 
 
